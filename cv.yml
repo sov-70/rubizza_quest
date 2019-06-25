@@ -1,0 +1,27 @@
+sidebar:
+    name: Vladimir Veprik
+    tagline: Developer
+
+    email: sov-70@mail.ru
+    phone: +8 (050) 401-26-80
+    address: Kharkov
+
+    languages:
+      - idiom: Russian
+        level: Native
+
+    interests:
+      - item: yoga
+
+      - item: creation
+
+career-profile:
+    title: Career Profile
+    summary: |
+      •	Developer with more 5 years experience in 1c.
+ 
+education:
+    - degree: electric power industry
+      university: Kharkov Polytechnic Institute
+      time: 
+      details: |
